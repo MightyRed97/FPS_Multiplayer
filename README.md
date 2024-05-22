@@ -1,6 +1,7 @@
 # Unreal Engine C++ FPS Game
 
-![Game Screenshot]([https://ibb.co/hdSwtSn])
+![Game Screenshot]
+<img src="https://ibb.co/hdSwtSn" alt="Game Screenshot" />
 
 ## Table of Contents
 
